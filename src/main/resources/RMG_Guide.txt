@@ -1,0 +1,22 @@
+GUIDE FOR RMG Mod (RPG Medieval Cultures)
+
+
+BEFORE YOU INSTALL THE MOD
+1) Make sure you have luckperms installed
+2) Make sure you have three luckperms groups: empire, kingdom and motherland
+
+INSTALLATION
+1) Add it to the mod folder in the server like other mods, client (players) need this mod too, so put it in the modpack.
+2) Start the server and let it generate the config file.
+3) Stop the server and edit the config file (to set the culture's spawn points)
+
+ADDING PREFIX/SUFFIX
+1) Open the luckperms editor (/lp editor)
+2) Add the prefix/suffix to the group you want to edit
+3) Use a mod like Essentials Forge to show the prefix/suffix in chat [https://www.curseforge.com/minecraft/mc-mods/essential-mod] by editing
+the config file.
+
+COMMANDS
+1) /culture spawn (to teleport to the culture's spawn point)
+2) /culture set [player] [cultureType] (to set a player's culture)
+(Compatible with luckperms)

@@ -1,0 +1,10 @@
+{
+  "values": [
+    "rmg:limonite_ore",
+    "rmg:magnetite_ore",
+    "rmg:pyrite_ore",
+    "rmg:deepslate_limonite_ore",
+    "rmg:deepslate_magnetite_ore",
+    "rmg:deepslate_pyrite_ore"
+  ]
+}

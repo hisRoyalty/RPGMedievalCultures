@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rmg:block/pyrite_ore"
+    }
+  }
+}
